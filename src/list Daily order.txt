@@ -434,7 +434,6 @@ Harvest: Tokyo Soybeans
 Catch: Skyscape Kelp
 [BQuest] Run: Buster Quest III
 
-                [ 6-6-2018 ]
 [FQuest] Defeat: Dirandal
 [FQuest] Defeat: Dragon Ex
 [FQuest] Defeat: Dragonkin
@@ -465,6 +464,7 @@ Catch: Earth Shell
 Catch: Sanctum Nautilus
 [BQuest] Run: Buster Quest I
 
+                 [ 6-6-2018 ]
 [FQuest] Defeat: Blu Ringahda
 [FQuest] Defeat: Jagd Dingell
 [FQuest] Defeat: Mechs
@@ -885,7 +885,6 @@ Catch: Tundra Herring
 Catch: Vegas Jaws
 [BQuest] Run: Buster Quest III
 
-                [ 6-7-2018 ]
 [FQuest] Defeat: Dragonkin
 [FQuest] Defeat: Nordiransa
 [FQuest] Defeat: Quartz Dragon
@@ -916,6 +915,7 @@ Catch: Facility Squid
 Catch: Seabed Oyster
 [BQuest] Run: Buster Quest I
 
+                [ 6-7-2018 ]
 [FQuest] Defeat: Dirandal
 [FQuest] Defeat: Dragon Ex
 [FQuest] Defeat: Dragonkin
@@ -1336,7 +1336,6 @@ Catch: Amduscia Coral
 Catch: Skyscape Oarfish
 [BQuest] Defeat: Misil Ghasud
 
-                [ 6-8-2018 ]
 [FQuest] Defeat: Big Vardha
 [FQuest] Defeat: Mechs
 [FQuest] Defeat: Signo Beat
@@ -1367,6 +1366,7 @@ Harvest: Forest Tomato
 Harvest: Shironian Sprouts
 [BQuest] Defeat: Lanzer Valace
 
+               [ 6-8-2018 ]
 [FQuest] Defeat: Darkers
 [FQuest] Defeat: Kuklonahda
 [FQuest] Defeat: Zeshrayda
