@@ -29,21 +29,6 @@ Catch: Little Meduna
 Catch: Empty Can
 Catch: Tundra Clione
 
-[FQuest] Defeat: Biol Meduna
-[FQuest] Defeat: Oceanids
-[FQuest] Defeat: Vid Gilos
-[Normal] Collect: El Ahda Wings II
-[Normal] Defeat: Garongo II
-[Normal] Defeat: Ghastle Dohr
-[Hard] Collect: Windira Scales I
-[Hard] Run: Codotta Idetta Sub.
-[VHard] Defeat: Dirandal
-[VHard] Run: Polluter Destruction I
-[SHard] Defeat: Train Ghidoran
-[SHard] Collect: Sharp Garongo Claws
-Catch: Empty Can
-Catch: Tundra Clione
-
 [FQuest] Defeat: Anushi-zagri
 [FQuest] Defeat: Gigur Gunne-gam
 [FQuest] Defeat: Kuronites
@@ -449,6 +434,7 @@ Harvest: Tokyo Soybeans
 Catch: Skyscape Kelp
 [BQuest] Run: Buster Quest III
 
+                [ 6-6-2018 ]
 [FQuest] Defeat: Dirandal
 [FQuest] Defeat: Dragon Ex
 [FQuest] Defeat: Dragonkin
@@ -464,7 +450,6 @@ Catch: Vegas Lobster
 [BQuest] Defeat: Misil Ghasud
 Run: Las Vegas Exploration
 
-            [ 6-6-2018 ]
 [FQuest] Defeat: Bal Rodos
 [FQuest] Defeat: Luda Sorcerer
 [FQuest] Defeat: Oceanids
@@ -900,6 +885,7 @@ Catch: Tundra Herring
 Catch: Vegas Jaws
 [BQuest] Run: Buster Quest III
 
+                [ 6-7-2018 ]
 [FQuest] Defeat: Dragonkin
 [FQuest] Defeat: Nordiransa
 [FQuest] Defeat: Quartz Dragon
@@ -915,7 +901,6 @@ Harvest: Tunnels Mushrooms
 Catch: Cave Arowanas
 [BQuest] Defeat: Misil Ghasud
 
-            [ 6-7-2018 ]
 [FQuest] Defeat: Darkers
 [FQuest] Defeat: Kuklonahda
 [FQuest] Defeat: Zeshrayda
@@ -1351,6 +1336,7 @@ Catch: Amduscia Coral
 Catch: Skyscape Oarfish
 [BQuest] Defeat: Misil Ghasud
 
+                [ 6-8-2018 ]
 [FQuest] Defeat: Big Vardha
 [FQuest] Defeat: Mechs
 [FQuest] Defeat: Signo Beat
@@ -1366,7 +1352,6 @@ Harvest: Red Meat
 Catch: Desert Flounder
 [BQuest] Run: Buster Quest I
 
-            [ 6-8-2018 ]
 [FQuest] Defeat: Dragonkin
 [FQuest] Defeat: Nordiransa
 [FQuest] Defeat: Quartz Dragon
